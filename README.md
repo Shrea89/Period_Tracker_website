@@ -64,10 +64,20 @@ A modern, responsive menstrual health dashboard and onboarding flow built with R
 └── README.md
 ```
 
-## Customization
-- **Accent Color:** Easily change the pink accent in `index.css` or relevant CSS files.
-- **Cycle Logic:** Update cycle calculations in `Dashboard.jsx` as needed.
-- **Add More Symptoms/Conditions:** Edit the arrays in `Symptoms.jsx` and `OnboardingQuestions.jsx`.
+## Website Images
+![Image 1](https://github.com/user-attachments/assets/2dc3922f-1949-4ccf-988f-243610414c5b)
+![Image 2](https://github.com/user-attachments/assets/f52ab8ed-73d1-4d3d-a98d-1cef2157ca41)
+![Image 3](https://github.com/user-attachments/assets/2b2f427f-c563-4747-9178-aa997ff90c40)
+![Image 4](https://github.com/user-attachments/assets/f56b6612-f14b-4b67-b508-808150b7fcdc)
+![Image 5](https://github.com/user-attachments/assets/eeb2bec5-e989-45dc-a677-233a52bf548d)
+![Image 6](https://github.com/user-attachments/assets/91f8d520-f902-4afb-8297-0f6e3df45f66)
+![Image 7](https://github.com/user-attachments/assets/42c3c3ed-3bf7-4ab1-9088-8e298525faaf)
+![Image 8](https://github.com/user-attachments/assets/8d077d11-d722-4bad-b1b3-826b23f016f8)
+![Image 9](https://github.com/user-attachments/assets/b6283320-be21-457e-8024-d1a5ca995f85)
+![Image 10](https://github.com/user-attachments/assets/5d7ecf6d-e6d8-4660-945d-e717d00ca0b3)
+![Image 11](https://github.com/user-attachments/assets/a0aa9db9-6684-42fa-a912-75080dce326f)
+![Image 12](https://github.com/user-attachments/assets/749b8a51-f387-42b3-b1c6-4e4ee94b959b)
+
 
 ## Contributing
 Contributions are welcome! To contribute:
